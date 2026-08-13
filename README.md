@@ -42,7 +42,7 @@
 **Full Stack Developer**  
 **Butterflies AI** [](https://butterflies.ai)
 
-AI-powered social platform available on **iOS and Android**.
+AI-powered social platform available on iOS and Android.
 
 **What I built:**
 - Developed the frontend with **Next.js**
@@ -51,15 +51,21 @@ AI-powered social platform available on **iOS and Android**.
 - Worked across frontend, backend API integration, and mobile delivery
 - Successfully launched the full service in production (November 2023)
 
+---
+
 ### NOV 2022 – MAR 2023  
 **Full Stack / Systems Developer**  
 **Crestron Electronics**
+
+American multinational specializing in audiovisual automation.
 
 **What I built:**
 - Developed multi-platform virtual audio & camera drivers using **C/C++** and **GStreamer**
 - Supported Linux, Windows, and macOS
 - Applied real-time techniques for low-latency video and audio streaming
 - Focused on backend systems and cross-platform media pipelines
+
+---
 
 ### SEP 2022 – APR 2023  
 **Full Stack Developer**  
@@ -74,6 +80,8 @@ Web and mobile application platform.
 - Contributed to both web and mobile layers
 - Successfully launched the service in production
 
+---
+
 ### NOV 2021 – FEB 2025  
 **Full Stack Developer**  
 **Sphynx Labs** [](https://thesphynx.co)
@@ -86,6 +94,8 @@ Multi-platform product with web application and native mobile apps (iOS & Androi
 - Created high-performance backend services using **Rust and Golang**
 - Worked end-to-end across frontend, backend, mobile, and infrastructure
 - Platform launched in production and continued running successfully
+
+---
 
 ### APR 2022 – AUG 2022  
 **Full Stack / Mobile Developer**  
