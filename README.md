@@ -8,7 +8,6 @@
   - **Full Stack**: Next.js, React, Vue.js, Node.js, Golang, Rust, Python (FastAPI/Flask), Java Spring, .NET, Mobile (React Native / Flutter), PostgreSQL, MongoDB, AWS, Docker, Kubernetes
   - **AI**: Stable Diffusion, DALL·E, ChatGPT, AI Agents, Voiceflow, LangChain, LLM, RAG, custom PDF generation
   - **Other**: Video & Audio Streaming, Smart Contracts, Web3
-- 📫 How to reach me: codesorccer@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I live and breathe building products that actually ship
 
